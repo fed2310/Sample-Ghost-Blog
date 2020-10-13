@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://vantagefitblog.ghost.io",
-    "contentApiKey": "a5f3bfdf2173b72ad44fbd4e08"
+    "apiUrl": "https://sagarikadevroy.ghost.io",
+    "contentApiKey": "80fc9b63e9efa6816c916493fe"
   },
   "production": {
-    "apiUrl": "https://vantagefitblog.ghost.io",
-    "contentApiKey": "a5f3bfdf2173b72ad44fbd4e08"
+    "apiUrl": "https://sagarikadevroy.ghost.io",
+    "contentApiKey": "80fc9b63e9efa6816c916493fe"
   }
 }
