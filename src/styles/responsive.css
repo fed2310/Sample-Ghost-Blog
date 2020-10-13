@@ -1,0 +1,1062 @@
+@media only screen and (max-width: 1023px) {
+    h3 img {
+        display:block;
+    }
+
+    ul.content-table li {
+        width: 100%;
+        display: block
+    }
+
+    .post-content .img-ind {
+        margin-bottom: 15px
+    }
+
+    .pl_70 {
+        padding-left: 0
+    }
+
+    ul.share li {
+        display: inline-block!important;
+        margin-right: 7px
+    }
+
+    .new_footer_top .f_widget {
+        margin-bottom: 20px
+    }
+
+    header .navbar {
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: #fff;
+        width: 100%
+    }
+
+    .header_area {
+        background: #fff;
+        position: fixed;
+        top: 0;
+        right: 0;
+        height: 60px!important
+    }
+
+    .main-container {
+        width: 100%
+    }
+
+    .post-container {
+        width: 100%
+    }
+
+    .row,.row.loop {
+        margin: auto
+    }
+
+    header {
+        height: 60px
+    }
+
+    .main-body {
+        margin: 40px 0
+    }
+
+    .main_title h1.singlepost_header {
+        font-size: 25px;
+        padding: 0 15px
+    }
+
+    .post-content .img-ind {
+        margin-top: 0
+    }
+
+    .downloadsection {
+        margin-top: 30px
+    }
+
+    .headertrigger,.headertrigger path {
+        color: #181818;
+        fill: #181818
+    }
+
+    .header_area .navbar .navbar-nav .menu-item a {
+        margin-left: 15px
+    }
+
+    header .search-trigger.search_iconmob {
+        display: block!important;
+        text-align: right;
+        padding-top: 15px;
+        width: 25px
+    }
+
+    header .search-trigger.search_icondesk {
+        display: none!important
+    }
+
+    .navbar-toggler {
+        margin-left: 0
+    }
+
+    ,.maincontainer {
+        margin-bottom: 30px
+    }
+
+    #load-posts {
+        margin-bottom: 60px
+    }
+
+    .author-detail img {
+        margin-left: 15px
+    }
+
+    .downloadsection .hs_submit.hs-submit input[type=submit] {
+        font-size: 14px
+    }
+
+    .downloadsection .hs_submit.hs-submit {
+        width: 60%;
+        height: 45px
+    }
+
+    .post-title.sidebartitle {
+        text-align: left
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .popupbottom.horizontalpopup .app_downloadbanner img {
+        margin-bottom:15px
+    }
+
+    .footer_bottom .text-right {
+        text-align: left!important
+    }
+
+    .navbar-brand>img {
+        width: 187px
+    }
+
+    .header_area .navbar .btn_get {
+        width: 100%
+    }
+
+    #search-field {
+        width: calc(100% - 22px);
+        margin: 15px 10px 10px 15px!important
+    }
+
+    .list-box.search_list {
+        padding: 0
+    }
+
+    .modal .close.search_close {
+        right: 50px!important;
+        top: 25px!important
+    }
+
+    .downloadsection img {
+        width: 70%
+    }
+
+    .content_c {
+        padding: 30px 20px
+    }
+
+    .sideheading {
+        font-size: 20px
+    }
+
+    img.freebookblog {
+        left: 12%
+    }
+
+    img.bokcover {
+        float: none;
+        margin-bottom: 30px;
+        width: 55%;
+        padding-right: 0
+    }
+
+    .ebookbutton {
+        margin-top: 40px
+    }
+
+    .contentebook {
+        font-size: 14px
+    }
+
+    .main_title p {
+        font-size: 15px;
+        line-height: 1.7;
+        margin-top: 15px
+    }
+
+    .share a {
+        width: 29px;
+        height: 29px
+    }
+
+    .content-inner {
+        padding: 50px 0
+    }
+}
+
+@media (min-width: 992px) {
+    header .inner {
+        display:-ms-flexbox!important;
+        display: flex!important;
+        -ms-flex-preferred-size: auto;
+        flex-basis: auto
+    }
+}
+
+@media (min-width: 320px) and (max-width:1024px) {
+    .header_area .navbar .navbar-nav .menu-item a {
+        font-size:12px
+    }
+
+    .container.custom_container {
+        padding-left: 15px;
+        padding-right: 15px
+    }
+
+    .row {
+        margin: auto
+    }
+
+    .loop .featured-content .inner {
+        padding: 40px 20px
+    }
+
+    .contentpost img.healthyworkforcebanner {
+        display: none
+    }
+
+    .popupbottom.horizontalpopup .innerspace {
+        padding: 10px 25px
+    }
+
+    .new_footer_area .footer_bottom {
+        padding-bottom: 25px
+    }
+}
+
+@media (min-width: 320px) and (max-width:1023px) {
+    .header_area .navbar .navbar-nav .menu-item {
+        margin-right:0
+    }
+
+    .header_area {
+        background: #fff
+    }
+
+    .menu>.nav-item>.nav-link:before {
+        display: none
+    }
+
+    .header_area .navbar .navbar-nav .menu-item a.active {
+        color: #f15162
+    }
+
+    .header_area .navbar .navbar-nav .menu-item a {
+        color: #181818;
+        font-size: 12px
+    }
+
+    .stick_logo {
+        display: block
+    }
+
+    .d_logo {
+        display: none
+    }
+
+    .left_pclr {
+        padding-left: 15px
+    }
+
+    .mobile_img .mobile_banner {
+        width: 40%;
+        margin-top: 20px
+    }
+
+    .n_banner_content h1 {
+        font-size: 24px;
+        line-height: 35px;
+        margin-bottom: 20px
+    }
+
+    .n_hero_banner_area svg {
+        display: none
+    }
+
+    .n_hero_banner_area {
+        min-height: auto
+    }
+
+    .header_area .navbar .btn_get {
+        background: #f15162
+    }
+
+    .mobile_img {
+        text-align: center
+    }
+
+    .n_banner_content {
+        padding-top: 20px
+    }
+
+    .n_banner_content h2 {
+        font-size: 25px;
+        line-height: 35px;
+        margin-bottom: 15px
+    }
+
+    .n_banner_content p {
+        font-size: 14px;
+        line-height: 25px;
+        padding-bottom: 0
+    }
+
+    .wellnessprogram p {
+        padding: 0
+    }
+
+    .title_head {
+        font-size: 20px
+    }
+
+    .left-activity,.right-activity {
+        padding-right: 15px;
+        padding-left: 15px;
+        max-width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 0;
+        position: relative;
+        right: 0;
+        left: 0
+    }
+
+    .row_elementor {
+        display: grid
+    }
+
+    section.section_space {
+        padding: 35px 0 0 0
+    }
+
+    .active-sec {
+        border: 0;
+        color: #707070
+    }
+
+    .title_spc {
+        padding-bottom: 20px
+    }
+
+    .outline-round:last-child {
+        margin-bottom: 0
+    }
+
+    .box_item div,.box_item h6 {
+        padding-left: 0
+    }
+
+    .default-spc {
+        margin-top: 10px;
+        margin-bottom: 20px
+    }
+
+    .page-template .title_head {
+        font-size: 24px
+    }
+
+    .title_second h3 {
+        font-size: 22px
+    }
+
+    .image-fit {
+        padding-top: 0
+    }
+
+    .active-sec .second-image {
+        display: none
+    }
+
+    .featurestext {
+        text-align: center
+    }
+
+    .linkstore {
+        padding: 7px
+    }
+
+    .linkstore img {
+        width: 35%
+    }
+
+    .title_second {
+        padding: 40px 0
+    }
+
+    .image-change img {
+        margin-bottom: 30px
+    }
+
+    .section_space.mob-section {
+        padding-top: 10px
+    }
+
+    .featurestext {
+        width: 100%
+    }
+
+    .box_item.active-sec {
+        box-shadow: 0 3px 10.92px 1.08px rgba(0,0,0,.07)
+    }
+
+    .wellnessprogram {
+        padding-top: 0
+    }
+
+    .mobile_img .mobile_banner {
+        left: 0
+    }
+
+    .main_title p {
+        padding: 0 20px
+    }
+
+    .pricingouter {
+        padding: 30px 0
+    }
+
+    .column-left,.column-right {
+        border-right: 0;
+        padding: 0 40px
+    }
+
+    .details-post {
+        max-width: 100%
+    }
+
+    .pclr {
+        padding: 0 15px
+    }
+
+    .post-content .img-ind {
+        margin-bottom: 15px
+    }
+
+    .post-title {
+        text-align: center
+    }
+
+    .campaignwellness {
+        padding: 30px 20px;
+        text-align: center
+    }
+
+    .campaignwellness .max-leng {
+        max-width: 100%
+    }
+
+    .campaignlandingpage img.imagesteps {
+        margin-bottom: 5px;
+        margin-top: 5px;
+        padding: 10px
+    }
+
+    .imagelogoleft {
+        width: 30%
+    }
+
+    .imagelogoright {
+        width: 68%
+    }
+
+    .activecolor {
+        font-size: 16px;
+        margin-bottom: 5px
+    }
+
+    .mobheader {
+        text-align: center
+    }
+
+    .mobheader .navbar {
+        display: inline-block
+    }
+
+    .mobileview {
+        display: block!important
+    }
+
+    .desktopview {
+        display: none
+    }
+
+    .button_width {
+        min-width: auto
+    }
+
+    span.marketinglanding.no-image {
+        width: 100%
+    }
+
+    .dwnload_app {
+        margin-right: 5px
+    }
+}
+
+@media (min-width: 1250px) {
+    .container {
+        max-width:1370px
+    }
+
+    .container.custom-container {
+        max-width: 1200px
+    }
+}
+
+@media (max-width: 991px) {
+    .new_footer_top .f_widget {
+        margin-bottom:20px
+    }
+
+    .pl_70 {
+        padding-left: 0
+    }
+
+    .f_social_icon_two a,.footer_bottom {
+        font-size: 13px
+    }
+
+    .menu>.nav-item {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-bottom: 1px solid rgba(237,237,237,.4)
+    }
+
+    .downloadlogo {
+        margin-bottom: 20px
+    }
+
+    .textleft,.textright {
+        text-align: center!important
+    }
+}
+
+@media (max-width: 767px) {
+    .container {
+        max-width:100%
+    }
+
+    .footer_bottom .text-right {
+        text-align: left!important
+    }
+
+    .new_footer_top {
+        padding: 50px 0 0
+    }
+
+    .f_widget .mb_40 {
+        margin-bottom: 16px
+    }
+
+    .banner_btn {
+        padding: 12px 35px!important;
+        font-size: 14px
+    }
+
+    .header_area .navbar .navbar-nav .menu-item {
+        margin-right: 0
+    }
+
+    .btn_hover {
+        width: 55%;
+        margin-top: 10px;
+        display: block;
+        margin-bottom: 15px
+    }
+
+    .header_area {
+        background: #fff
+    }
+
+    .menu>.nav-item>.nav-link:before {
+        display: none
+    }
+
+    .header_area .navbar .navbar-nav .menu-item a.active {
+        color: #f15162
+    }
+
+    .hidden-xs {
+        display: none
+    }
+
+    .column-change {
+        display: flex;
+        flex-direction: column-reverse
+    }
+
+    .content_benefits h6 {
+        font-size: 17px
+    }
+
+    .breadcrumb_area_two {
+        padding: 127px 0 67px
+    }
+
+    .breadcrumb_content h1 {
+        font-size: 24px
+    }
+
+    .main-content {
+        padding: 50px 0
+    }
+
+    .request-demo-form {
+        width: 100%
+    }
+
+    .downloadbook {
+        width: 85%
+    }
+
+    .wellness-background .transform {
+        margin-bottom: 40px
+    }
+
+    .text-right.mob-pull {
+        text-align: center!important
+    }
+
+    .section_space.features-section {
+        padding-top: 0
+    }
+
+    .iconplay i {
+        font-size: 25px
+    }
+
+    .iconplay {
+        width: 70px;
+        height: 70px
+    }
+
+    .video_info {
+        height: auto
+    }
+
+    .wrapper {
+        padding: 0
+    }
+
+    section.section_space.video_area {
+        padding-bottom: 40px;
+        margin-top: 40px
+    }
+
+    .hs-input {
+        width: 100%!important
+    }
+
+    .imagerunning {
+        max-width: 100%;
+        margin-bottom: 30px
+    }
+
+    .campaignlandingpage img {
+        width: 100%
+    }
+
+    img.downloadlogo {
+        width: 60%
+    }
+
+    .winner {
+        margin-top: 30px
+    }
+
+    .breadcrumb_area_two.campaginbreadcrumb {
+        padding: 95px 0 5px 0
+    }
+
+    .main-content.campaignlandingpage {
+        padding: 30px 0
+    }
+
+    .campaignlandingpage.page-template .title_head {
+        font-size: 23px
+    }
+
+    .campaignlandingpage section.section_space {
+        padding: 25px 0 0 0
+    }
+
+    .title_default {
+        margin-bottom: 15px
+    }
+
+    .campaignlandingpage .title_spc {
+        padding-bottom: 15px
+    }
+
+    .downloadlogo {
+        padding: 15px 20px
+    }
+
+    .campaignlpage h4,.page-template .campaignlandingpage .title_head {
+        font-size: 17px
+    }
+
+    .campaignlandingpage,.campaignlandingpage p {
+        font-size: 14px
+    }
+
+    .campaignlpage h4 {
+        line-height: 22px
+    }
+
+    .last-sectio,.mob-space {
+        margin-top: 20px
+    }
+
+    .campaign_sectitle {
+        font-size: 13px;
+        line-height: 20px
+    }
+
+    .breadcrumb_content h1.mob_firstheading {
+        font-size: 22px
+    }
+
+    .request-demo-form.ebook {
+        width: 100%;
+        max-width: 100%;
+        padding: 20px
+    }
+
+    .ebook-image {
+        margin-bottom: 30px
+    }
+
+    .content_benefits .innertext {
+        font-size: 18px;
+        margin-bottom: 5px
+    }
+
+    .page-template .title_head,.title_second .second_heading {
+        font-size: 22px
+    }
+
+    .app_downloadbanner img {
+        width: 45%
+    }
+
+    .horizontaltext {
+        font-size: 14px;
+        line-height: 1.4;
+        margin-bottom: 10px
+    }
+
+    .popupbottom.horizontalpopup .appdownloadbanner .text-right {
+        text-align: center!important
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width:1023px) {
+    .widget img {
+        max-width:60%
+    }
+
+    .hidden-sm {
+        display: none
+    }
+
+    .btn_hover {
+        width: 30%;
+        margin-top: 10px;
+        display: block;
+        margin-bottom: 15px
+    }
+
+    .ipadcolumn-change {
+        display: flex;
+        flex-direction: column-reverse
+    }
+
+    .page-template .title_head {
+        margin-bottom: 10px
+    }
+
+    .downloadbook {
+        width: 61%;
+        position: relative;
+        padding: 20px 0
+    }
+
+    .main_features.img-responsive {
+        width: 100%
+    }
+
+    .banner_btn {
+        font: 500 14px Poppins,sans-serif;
+        padding: 14px 22px
+    }
+
+    .request-demo-form {
+        width: 100%
+    }
+
+    .imagerunning {
+        margin-bottom: 40px
+    }
+
+    .winner {
+        width: 50%;
+        margin-top: 30px
+    }
+
+    .breadcrumb_area_two.campaginbreadcrumb {
+        padding: 130px 0 30px 0
+    }
+
+    .main-content.campaignlandingpage {
+        padding: 60px 0
+    }
+
+    .campaignlandingpage.page-template .title_head {
+        font-size: 30px
+    }
+
+    .campaignlandingpage section.section_space {
+        padding: 50px 0 0 0
+    }
+
+    .title_default {
+        margin-bottom: 30px
+    }
+
+    .campaignlandingpage .title_spc {
+        padding-bottom: 30px
+    }
+
+    .downloadlogo {
+        padding: 15px 20px
+    }
+
+    .campaignlpage h4,.page-template .campaignlandingpage .title_head {
+        font-size: 30px
+    }
+
+    .breadcrumb_content h1.mob_firstheading {
+        font-size: 30px
+    }
+
+    .mob-space {
+        margin-top: 30px
+    }
+
+    .n_hero_banner_area {
+        margin-bottom: 20px
+    }
+
+    .header_area .navbar .btn_get {
+        width: 50%
+    }
+
+    .share {
+        margin-bottom: 20px
+    }
+
+    .downloadsection .dwnloadbookimage,.downloadsection .hs_submit.hs-submit,.downloadsection .imagesticky,.downloadsection img {
+        width: 35%
+    }
+
+    .downloadsection .freeebook {
+        width: 15%;
+        top: -37px;
+        right: 29%
+    }
+
+    .downloadsection .requestdemo_sidebar {
+        width: 34%
+    }
+
+    .downloadsection .vfitheart {
+        width: 15%
+    }
+
+    .downloadsection .requestdemo_sidebar {
+        left: 30%
+    }
+
+    .downloadsection .subscribe {
+        width: auto
+    }
+
+    .contentebook {
+        font-size: 14px;
+        line-height: 1.4
+    }
+
+    .sideheading {
+        font-size: 20px
+    }
+
+    img.bokcover {
+        width: 55%
+    }
+
+    .ebookbutton {
+        margin-top: 35px
+    }
+
+    .app_downloadbanner img {
+        width: 30%
+    }
+
+    .breadcrumb_area_two {
+        padding: 175px 0 100px
+    }
+
+    .popupbottom {
+        width: 50%
+    }
+
+    .popupbottom .app_downloadbanner {
+        margin-bottom: 0
+    }
+
+    .popupbottom.horizontalpopup .app_downloadbanner img {
+        width: 35%
+    }
+
+    .new_footer_area {
+        margin-bottom: 70px
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width:767px) and (orientation:landscape) {
+    .downloadsection .freeebook {
+        width:16%;
+        right: 27%
+    }
+
+    .downloadsection .dwnloadbookimage {
+        width: 35%!important
+    }
+
+    .downloadsection .banner_btn {
+        padding: 12px 45px!important
+    }
+
+    .downloadsection .hs_submit.hs-submit,.downloadsection img {
+        width: 35%
+    }
+
+    .requestdemo_sidebar {
+        margin: auto!important
+    }
+
+    .downloadsection .vfitheart {
+        width: 15%
+    }
+
+    .downloadsection .subscribe {
+        width: auto
+    }
+
+    img.bokcover {
+        margin-bottom: 10px
+    }
+
+    .app_downloadbanner img {
+        width: 30%
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width:1023px) and (orientation:landscape) {
+    .downloadsection .dwnloadbookimage,.downloadsection .hs_submit.hs-submit,.downloadsection .imagesticky,.downloadsection img {
+        width:35%
+    }
+
+    .downloadsection .freeebook {
+        width: 15%;
+        top: -37px;
+        right: 29%
+    }
+
+    .downloadsection .requestdemo_sidebar {
+        width: 34%
+    }
+
+    .downloadsection .vfitheart {
+        width: 15%
+    }
+
+    .downloadsection .requestdemo_sidebar {
+        left: 30%
+    }
+
+    .downloadsection .subscribe {
+        width: auto
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width:1024px) and (orientation:landscape) {
+    .downloadsection .banner_btn {
+        padding:12px 15px
+    }
+
+    img.bokcover {
+        width: 55%
+    }
+
+    .ebookbutton {
+        margin-top: 35px
+    }
+
+    .app_downloadbanner img {
+        width: 30%
+    }
+
+    .newsletter_blog {
+        display: none
+    }
+
+    .hs-form {
+        min-height: 200px
+    }
+
+    .new_footer_area {
+        margin-bottom: 70px
+    }
+}
+
+@media only screen and (min-width: 1024px) and (max-width:1366px) {
+    .downloadsection .banner_btn {
+        padding:12px 20px
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .breadcrumb {
+        padding-left:0
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width:1024px) {
+    .new_footer_area.popupspc {
+        margin-bottom:70px
+    }
+
+    .banner_btn {
+        min-width: 175px
+    }
+}
